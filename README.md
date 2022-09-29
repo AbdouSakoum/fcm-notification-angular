@@ -1,4 +1,5 @@
-# FcmAngular
+# Firebase Cloud Messaging using Angular
+A simple Angular application that uses fcm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
